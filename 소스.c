@@ -18,4 +18,4 @@ int main(void)
 	printf("(6) : %d\n", x * c + x * e * 10 + x * z * 100);
 
 }
-//과제
+//과제 1
